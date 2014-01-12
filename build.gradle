@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        maven { url 'http://clojars.org/repo' }
+    }
+    dependencies {
+        classpath 'clojuresque:clojuresque:1.5.8'
+    }
+}
+
+apply plugin: "clojure"
+ 
+repositories {
+    mavenLocal()
+    mavenCentral()
+    clojarsRepo()
+}
+ 
+dependencies {
+    compile 'org.clojure:clojure:1.5.1'
+    compile 'org.apache.httpcomponents:httpclient:4.2.1'
+    compile 'org.jonnakkerud:Utils:1.0'
+}

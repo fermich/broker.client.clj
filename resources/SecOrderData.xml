@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<SecOrderData SecSubAcc110="2" SecSubAcc210="4" SecSubAccSCZ="10.66" SecSubAccSCW="0.0"
+              SecQuotation="5.27" SecMultiplier="1.0" SecOrdWPB="0" SecOrdWPS="0" SecID="35849086"
+              SecCurrency="PLN" SecCurrencyQtnSell="1.0000" SecCurrencyQtnBuy="1.0000" SecIsOTP="true"
+              SecIsPKC="true" SecMarketID="0" SecType="A" SecInterests="0.0" SecName="PGNIG"
+              SecCode="PLPGNIG00014" SecLastTrnQtn="5.15" SecGrpState="S" SecGrpStateDesc="cišgłe"
+              SecGrpStateColor="#1E986F" Bid="5.14" VolBid="7619" Offer="5.15" VolOffer="9350"
+              OrdDateFrom="27.12.2013">
+    <RndLmtList RndLmtFrom="0.01" RndLmtTo="100.0" RndLmtStep="0.01"/>
+    <RndLmtList RndLmtFrom="100.01" RndLmtTo="1000000.0" RndLmtStep="0.05"/>
+</SecOrderData>
